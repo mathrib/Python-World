@@ -32,7 +32,7 @@ O objetivo deste repositório é:
 
 ## 🚀 Tecnologias
 
-- Python 3
+- Python
 
 ## 📌 Observação
 
