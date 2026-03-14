@@ -15,8 +15,3 @@ print(gameName.count("f")) #Retorna o número de vezes que o caractere "f" apare
 print(gameName.replace("Fifa", "PES")) #Substitui a palavra "Fifa" por "PES"
 print(gameDescription.split(",")) #Divide a string em uma lista de substrings, utilizando a vírgula como separador
 print(gameDescription.strip()) #Remove os espaços em branco do início e do fim da string
-
-print("Teste commit")
-print("Teste commit 3")
-print("Teste commit 4")
-print("teste commit branch Testes Matheus")
